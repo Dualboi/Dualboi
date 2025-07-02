@@ -13,7 +13,9 @@ I am a third year computer science student, currently undertaking a year in indu
 </div>
 
 #
-I am currently working on improving and expanding my personal [project](https://github.com/Duilboi/SonnyBellPortfolio) which is a digital space to show off my experience, projects, and certifications!
+Currently working on:
+##
+improving and expanding my personal [project](https://github.com/Duilboi/SonnyBellPortfolio) which is a digital space to show off my experience, projects, and certifications!
 
 <!--
 **Dualboi/Dualboi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
