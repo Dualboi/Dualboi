@@ -1,7 +1,7 @@
 ## 
 Hey :wave: my name is Sonny Bell
 
-I am a third year computer science student, currently undertaking a year in industry at Network Rail as a data analyst. I enjoy Software design, Java coding, and web development. Hands-on experience with low level Bluetooth hardware, Open-AI API (AI-driven automation).
+I am a third year computer science student, currently undertaking a year in industry at Network Rail as a data analyst. I enjoy Software design, Java coding, and web development. With hands-on experience with low level Bluetooth hardware, Open-AI API (AI-driven automation).
 
 
 <div align="center">
@@ -11,7 +11,7 @@ I am a third year computer science student, currently undertaking a year in indu
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dualboi&layout=compact&theme=transparent" height="180"/>
 </div>
 
-
+I am currently working on improving and expanding my personal project [My Portfolio site](https://github.com/Duilboi/SonnyBellPortfolio)
 
 <!--
 **Dualboi/Dualboi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
