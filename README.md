@@ -2,9 +2,9 @@
 
 <div align="center">
   <!-- Displays general GitHub stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Dualboi&show_icons=true&theme=graywhite" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Dualboi&show_icons=true&theme=transparent" height="180"/>
   <!-- Displays Top Most used langauges -->
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dualboi&layout=compact&theme=graywhite" height="180"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dualboi&layout=compact&theme=transparent" height="180"/>
 </div>
 
 <!--
