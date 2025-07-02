@@ -1,6 +1,7 @@
 ## Hi there 👋
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUserName&layout=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUserName&layout=compact)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=YourUserName)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
