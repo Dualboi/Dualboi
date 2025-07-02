@@ -14,7 +14,7 @@ I am a third year computer science student, currently undertaking a year in indu
 
 #
 Currently working on:
-##
+
 improving and expanding my personal [project](https://github.com/Duilboi/SonnyBellPortfolio) which is a digital space to show off my experience, projects, and certifications!
 
 <!--
