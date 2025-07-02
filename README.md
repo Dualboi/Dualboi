@@ -4,7 +4,7 @@ Hey :wave: my name is Sonny Bell
 I am a third year computer science student, currently undertaking a year in industry at Network Rail as a data analyst. I enjoy Software design, Java coding, and web development. With hands-on experience with low level Bluetooth hardware, Open-AI API (AI-driven automation).
 
 
-
+##
 <div align="center">
   <!-- Displays general GitHub stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Dualboi&show_icons=true&theme=transparent" height="180"/>
@@ -12,7 +12,7 @@ I am a third year computer science student, currently undertaking a year in indu
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dualboi&layout=compact&theme=transparent" height="180"/>
 </div>
 
-
+##
 I am currently working on improving and expanding my personal [project](https://github.com/Duilboi/SonnyBellPortfolio) which is a digital space to show off my experience, projects, and certifications!
 
 <!--
