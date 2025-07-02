@@ -28,7 +28,7 @@ I’m looking to collaborate on :fire:
 Any fun java project!!
 
 #
-Connect via :email:
+Say hello by connecting with :email:
 
 My [Linkedin](linkedin.com/in/sonny-bell-160108201)
 <!--
