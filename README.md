@@ -20,7 +20,7 @@ Improving and expanding my personal [project](https://github.com/Duilboi/SonnyBe
 #
 Currently learning :books:
 
-Adnvanced Data analysis and modelling
+Advanced Data analysis and modelling
 
 <!--
 **Dualboi/Dualboi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
