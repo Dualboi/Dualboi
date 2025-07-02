@@ -20,8 +20,15 @@ Improving and expanding my personal [project](https://github.com/Duilboi/SonnyBe
 #
 Currently learning :books:
 
-Advanced Data analysis and modelling, which started with this University [project](https://github.com/ml-analysis-ukraine-attacks), now continuing learning through my placement year!
+Advanced Data analysis and modelling, which started with this University [project](https://github.com/Dualboi/ml-analysis-ukraine-attacks), now continuing learning through my placement year!
 
+#
+I’m looking to collaborate on :fire:
+Any fun java project!!
+
+#
+Connect via :email:
+My [Linkedin](linkedin.com/in/sonny-bell-160108201)
 <!--
 **Dualboi/Dualboi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
