@@ -1,8 +1,13 @@
 ## Hi there 👋
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dualboi&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dualboi&layout=compact)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Dualboi)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- Displays general GitHub stats -->
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dualboi&show_icons=true&theme=radical)
+
+<!-- Displays Top Most used langauges -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dualboi&layout=compact&theme=radical)
+
+<!-- Displays trophies -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=Dualboi&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **Dualboi/Dualboi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
