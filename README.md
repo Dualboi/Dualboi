@@ -1,7 +1,6 @@
 ## 
 Hey :wave: my name is Sonny Bell
-
-I am a third year computer science student, currently undertaking a year in industry at Network Rail as a data analyst. I enjoy Software design and engineering as well as web development. Hands-on experience with IoT Bluetooth hardware, Open-AI API (AI-driven automation).
+I am a third year computer science student, currently undertaking a year in industry at Network Rail as a data analyst. I enjoy Software design, Java coding, and web development. Hands-on experience with low level Bluetooth hardware, Open-AI API (AI-driven automation).
 
 
 <div align="center">
