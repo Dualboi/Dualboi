@@ -28,6 +28,7 @@ Any fun java project!!
 
 #
 Connect via :email:
+
 My [Linkedin](linkedin.com/in/sonny-bell-160108201)
 <!--
 **Dualboi/Dualboi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
