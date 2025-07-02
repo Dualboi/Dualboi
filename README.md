@@ -8,7 +8,12 @@
 </div>
 
 <!-- Displays trophies -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=Dualboi&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Dualboi&theme=radical" alt="GitHub Trophies" />
+  </a>
+</div>
+
 
 <!--
 **Dualboi/Dualboi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
