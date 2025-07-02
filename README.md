@@ -17,6 +17,11 @@ Currently working on ⚡
 
 Improving and expanding my personal [project](https://github.com/Duilboi/SonnyBellPortfolio) which is a digital space to show off my experience, projects, and certifications!
 
+#
+Currently learning :books:
+
+Adnvanced Data analysis and modelling
+
 <!--
 **Dualboi/Dualboi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
