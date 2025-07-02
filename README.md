@@ -1,10 +1,11 @@
 ## Hi there 👋
 
-<!-- Displays general GitHub stats -->
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dualboi&show_icons=true&theme=radical)
-
-<!-- Displays Top Most used langauges -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dualboi&layout=compact&theme=radical)
+<div align="center">
+  <!-- Displays general GitHub stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Dualboi&show_icons=true&theme=radical" height="180"/>
+  <!-- Displays Top Most used langauges -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dualboi&layout=compact&theme=radical" height="180"/>
+</div>
 
 <!-- Displays trophies -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=Dualboi&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
