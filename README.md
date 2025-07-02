@@ -20,7 +20,7 @@ Improving and expanding my personal [project](https://github.com/Duilboi/SonnyBe
 #
 Currently learning :books:
 
-Advanced Data analysis and modelling, which started with this University [project](https://github.com/ ml-analysis-ukraine-attacks)
+Advanced Data analysis and modelling, which started with this University [project](https://github.com/ml-analysis-ukraine-attacks).
 
 <!--
 **Dualboi/Dualboi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
