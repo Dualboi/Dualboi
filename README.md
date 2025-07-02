@@ -24,6 +24,7 @@ Advanced Data analysis and modelling, which started with this University [projec
 
 #
 I’m looking to collaborate on :fire:
+
 Any fun java project!!
 
 #
