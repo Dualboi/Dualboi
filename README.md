@@ -11,7 +11,7 @@ I am a third year computer science student, currently undertaking a year in indu
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dualboi&layout=compact&theme=transparent" height="180"/>
 </div>
 
-I am currently working on improving and expanding my personal project [My Portfolio site](https://github.com/Duilboi/SonnyBellPortfolio)
+I am currently working on improving and expanding my personal [project](https://github.com/Duilboi/SonnyBellPortfolio) which is a digital space to show my experience, projects, and certifications!
 
 <!--
 **Dualboi/Dualboi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
