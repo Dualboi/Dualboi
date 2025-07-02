@@ -15,7 +15,7 @@ I am a third year computer science student, currently undertaking a year in indu
 #
 Currently working on ⚡
 
-Improving and expanding my personal [project](https://github.com/Duilboi/(https://sonnybell.netlify.app)) which is a digital space to show off my experience, projects, and certifications!
+Improving and expanding my personal [project](https://sonnybell.netlify.app) which is a digital space to show off my experience, projects, and certifications!
 
 #
 Currently learning :books:
