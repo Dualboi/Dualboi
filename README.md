@@ -30,7 +30,7 @@ Any fun java project!!
 #
 Say hello by connecting with me :email:
 
-My [Linkedin](linkedin.com/in/sonny-bell-160108201)
+My [Linkedin](https://linkedin.com/in/sonny-bell-160108201)
 <!--
 **Dualboi/Dualboi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
