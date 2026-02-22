@@ -3,13 +3,6 @@ Hey :wave: my name is Sonny Bell
 
 I am in my third year as a computer science student, currently undertaking a year in industry at Network Rail as a Data Analyst working primarily on Geospatial data. I enjoy Software design, Java coding, and web development. With hands-on experience with low level Bluetooth hardware, Open-AI API (AI-driven automation).
 
-
-##
-<div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Dualboi&show_icons=true&theme=github_dark" height="180"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dualboi&layout=compact&theme=github_dark" height="180"/>
-</div>
-
 #
 Currently working on ⚡
 
