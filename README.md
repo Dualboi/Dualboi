@@ -6,10 +6,8 @@ I am in my third year as a computer science student, currently undertaking a yea
 
 ##
 <div align="center">
-  <!-- Displays general GitHub stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Dualboi&show_icons=true&theme=transparent" height="180"/>
-  <!-- Displays Top Most used langauges -->
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dualboi&layout=compact&theme=transparent" height="180"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Dualboi&show_icons=true&theme=github_dark" height="180"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dualboi&layout=compact&theme=github_dark" height="180"/>
 </div>
 
 #
