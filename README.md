@@ -11,7 +11,7 @@ Improving and expanding my personal [project](https://sonnybell.netlify.app) whi
 #
 Currently learning :books:
 
-React Development! Building on my base knowledge of React I plan on making a React web app soon!
+React Development! Building on my base knowledge of React, I plan on making a React web app soon!
 
 Real-time programming, starting with C (my progress on this can be viewed [here](https://github.com/Dualboi/Learning_C)) then after I have an intermediate understanding of C I plan on moving to C++.
 
