@@ -6,7 +6,7 @@ I am in my third year as a computer science student, currently undertaking a yea
 #
 Currently working on ⚡
 
-A FullStack Triathlon Training App built in TypeScript React REST api Web App you can see [here!](https://github.com/Dualboi/ironman_app).
+A FullStack Triathlon Training Web App built in TypeScript, React, with a REST api you can see the propgress here [here!](https://github.com/Dualboi/ironman_app).
 
 #
 Currently learning :books:
