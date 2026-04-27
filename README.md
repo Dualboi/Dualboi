@@ -6,7 +6,7 @@ I am in my third year as a computer science student, currently undertaking a yea
 #
 Currently working on ⚡
 
-Improving and expanding my personal [project](https://sonnybell.netlify.app) which is a digital space to show off my experience, projects, and certifications!
+Creating a FullStack React REST api Web App you can see [here!](https://github.com/Dualboi/ironman_app).
 
 #
 Currently learning :books:
